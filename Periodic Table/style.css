@@ -1,0 +1,56 @@
+td{
+    border: 2px solid black;
+    width: 3.5vw;
+    text-align: center;
+    border-radius: 3px;
+}
+.noborder {
+    border: none;
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 45px;
+    color: forestgreen;
+    background-color: yellow;
+}
+.clr1{
+    background-color: rgb(40, 212, 40);
+    
+}
+.text_color{
+    color: red;
+}
+
+.clr2{
+    background-color: yellow;
+}
+
+.clr3{
+    background-color: rgb(167, 87, 241);
+}
+.text_clr2{
+    color: white;
+}
+.clr4{
+    background-color: darkcyan;
+}
+.clr5{
+    background-color: darkolivegreen;
+}
+.clr6{
+    background-color: rgb(248, 107, 6);
+}
+.clr7{
+    background-color: black;
+    color: white;
+}
+.clr8{
+    background-color: rgb(166, 151, 255);
+}
+.text_clr3{
+    color: red;
+}
+.text_clr4{
+    color: blue;
+}
+    
